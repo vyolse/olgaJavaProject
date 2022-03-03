@@ -1,6 +1,6 @@
 package lesson1;
 
-public class myHomeWork {
+public class Class {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
